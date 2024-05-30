@@ -12,7 +12,7 @@ const createWindow = () => {
     }
   });
 
-  win.loadFile('views/menu.html');
+  win.loadFile('views/game.html');
 }
 
 
